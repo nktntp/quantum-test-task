@@ -1,5 +1,5 @@
 # Regression on the tabular data
-This problem is a of Quantum test tasks. Other problems can be found at the main repo.
+This problem is a part of Quantum test task. Other problems can be found at the [main repo](https://github.com/nktntp/quantum-test-task).
 
 ## Project objective
 Given a dataset that contains $53$ anonymized features and a target column. The task is to build a model that predicts a target based on the proposed features. We will use __RMSE__ as a target metric.
