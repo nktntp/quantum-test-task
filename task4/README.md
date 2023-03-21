@@ -35,7 +35,7 @@ Rasterio failed to mask 435 files from 936.
 Since only 334 had corresponding description the images were labled manually into two categories 1: "Normal" and 2: "Erosion".
 ### Model Training
 
-Classification task was solved with the help of transfer learning. __InceptionV3__ with weights in feature generation layers pretrinated on imagenet was chosen as the model.
+Classification task was solved with the help of transfer learning. __InceptionV3__ with weights in feature generation layers pretrained on imagenet was chosen as the model.
 
 Optimizer - Adam
 
