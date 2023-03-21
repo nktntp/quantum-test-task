@@ -13,7 +13,7 @@ Given a dataset that contains $53$ anonymized features and a target column. The 
 
 During the analysis, it was noticed that all the features do not have a linear correlation with the the target. 
 
-<img src="https://github.com/nktntp/quantum-test-task/blob/master/task3/img/correlation-matrix.png" width="400">
+<img src="https://github.com/nktntp/quantum-test-task/blob/master/task3/img/correlation-matrix.png" width="600">
 
 
 Therefore, we can conclude that it makes sense to consider only nonlinear models. For this task, a model based on XGBoost was chosen.
