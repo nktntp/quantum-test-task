@@ -40,8 +40,8 @@ Classification task was solved with the help of transfer learning. __InceptionV3
 Training results
 
 <p float="left">
-  <img src="https://github.com/nktntp/quantum-test-task/blob/master/task4/img/loss.png" width="500" />
-  <img src="https://github.com/nktntp/quantum-test-task/blob/master/task4/img/accuracy.png" width="500" />
+  <img src="https://github.com/nktntp/quantum-test-task/blob/master/task4/img/loss.png" width="300" />
+  <img src="https://github.com/nktntp/quantum-test-task/blob/master/task4/img/accuracy.png" width="300" />
 </p>
 
 
