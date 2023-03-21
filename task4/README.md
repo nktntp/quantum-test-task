@@ -6,8 +6,8 @@ Given a raster dataset and a mask file train a model to classify if there is an 
 
 ## Technologies
 - Python3
-- Rasterio
 - GeoPandas
+- Rasterio
 - TensorFlow
 - Keras
 - Numpy
