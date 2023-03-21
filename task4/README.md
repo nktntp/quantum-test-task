@@ -15,3 +15,4 @@ Given a raster dataset and a mask file train a model to classify if there is an 
   
 ## Project Description
 ![cropped image](https://github.com/nktntp/quantum-test-task/blob/master/task4/img/cropped-image.png =250x250)
+<a href="url"><img src="http://url.to/image.png" align="left" height="250" width="250" ></a>
