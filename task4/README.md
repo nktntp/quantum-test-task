@@ -15,7 +15,7 @@ Given a raster dataset and a mask file train a model to classify if there is an 
   
 ## Project Description
 ### Data Preparation
-Each field from __shp.__ file was cutted from a map. For this purpose, Rasterio has a function called __mask__.
+Each field from __.shp__ file was cutted from a map. For this purpose, Rasterio has a function called __mask__.
 
 ``` Python
 for num, row in train_df.iterrows():
