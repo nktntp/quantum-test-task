@@ -32,7 +32,7 @@ print("Rasterio failed to mask {} files".format(len(failed)))
 ```
 Rasterio failed to mask 435 files from 936.
 
-Since only 334 had corresponding description the images were labled manually into two categories 1: "Normal" and 2: "Erosion.
+Since only 334 had corresponding description the images were labled manually into two categories 1: "Normal" and 2: "Erosion".
 ### Model Training
 
 
