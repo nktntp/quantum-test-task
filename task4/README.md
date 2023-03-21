@@ -14,4 +14,4 @@ Given a raster dataset and a mask file train a model to classify if there is an 
 - Pandas
   
 ## Project Description
-![cropped image](https://github.com/nktntp/quantum-test-task/blob/master/task4/img/cropped-image.png)
+![cropped image](https://github.com/nktntp/quantum-test-task/blob/master/task4/img/cropped-image.png = 250x250)
