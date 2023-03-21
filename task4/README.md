@@ -38,6 +38,7 @@ Since only 334 had corresponding description the images were labled manually int
 Classification task was solved with the help of transfer learning. __InceptionV3__ with weights in feature generation layers pretrinated on imagenet was chosen as the model.
 
 Optimizer - Adam
+
 Loss function - Categorical Crossentropy
 
 #### Training results
