@@ -30,6 +30,9 @@ for num, row in train_df.iterrows():
       failed.append(num)
 print("Rasterio failed to mask {} files".format(len(failed)))
 ```
+Rasterio failed to mask 435 files from 936.
 
-<a href="url"><img src="https://github.com/nktntp/quantum-test-task/blob/master/task4/img/cropped-image.png" align="left" height="250" width="250" ></a>
+Since only 334 had corresponding description the images were labled manually into two categories 1: "Normal" and 2: "Erosion.
+### Model Training
+
 
